@@ -3,3 +3,5 @@ This repository is personal practice running through the various tutorials and a
 
 This course practices LINUX command line skills, git and version control, python data analysis (e.g. Xarray, plotting, etc.), different Earth science data types (e.g. netCDF), and parallel programming.
 
+Contact: aidan.janney@colorado.edu
+
