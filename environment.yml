@@ -1,4 +1,4 @@
-name: pangeo
+name: Earth-Science-Data-Fundamentals
 channels:
  - conda-forge
  - nodefaults
