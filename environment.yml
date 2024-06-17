@@ -78,6 +78,7 @@ dependencies:
  - pyarrow
  - pycamhd
  - pydap
+ - pygmt
  - pystac
  - pystac-client
  - python-blosc
